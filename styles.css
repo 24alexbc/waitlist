@@ -1,0 +1,18 @@
+html{
+    background-color: #F6F9FE;
+}
+.menu{
+    position:fixed;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.join{
+    
+    background-color: #372964;
+    color: white;
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+}
